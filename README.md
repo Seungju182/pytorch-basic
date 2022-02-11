@@ -1,2 +1,2 @@
 # pytorch-basic
-Repository for basic PyTorch codes
+Repository for basic PyTorch codes.
